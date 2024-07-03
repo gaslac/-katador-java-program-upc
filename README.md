@@ -1,1 +1,1 @@
-# -katador-java-program-upc
+# -java-programacion-2-upc
